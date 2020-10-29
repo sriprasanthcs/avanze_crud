@@ -100,7 +100,7 @@
                     $user_vals[] = $rows;
                   
                   }
-                  foreach ($user_vals as $user_val){//check
+                  foreach ($user_vals as $user_val){//chec
                    ?>
                   <tr>
                     <td><?php echo $user_val['Name']; ?></td>
