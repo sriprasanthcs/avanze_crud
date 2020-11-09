@@ -40,7 +40,7 @@
 </head>
 
 <body>
-  <!-- container section start testeds -->
+  <!-- container section start tested -->
   <section id="container" class="">
     
 
