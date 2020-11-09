@@ -11,7 +11,7 @@
 
   <title>Form Page</title>
 
-  <!-- Bootstrap CSS checked-->
+  <!-- Bootstrap CSS checkeds-->
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <!-- bootstrap theme -->
   <link href="css/bootstrap-theme.css" rel="stylesheet">
